@@ -6,6 +6,7 @@ graphene-django==2.15.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
 promise==2.3
+PyJWT==2.1.0
 python-dotenv==0.19.0
 pytz==2021.1
 Rx==1.6.1

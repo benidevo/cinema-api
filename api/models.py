@@ -1,4 +1,3 @@
-from turtle import title
 import uuid
 from django.db import models
 

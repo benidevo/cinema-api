@@ -1,4 +1,3 @@
-from turtle import title
 import graphene
 from graphene_django.types import DjangoObjectType
 from api.models import Movie, Director
